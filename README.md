@@ -1,12 +1,13 @@
 # 🙋‍♀️ Hi Folks, I’m Hafsha Wahab
-I am a Data Analyst by profession and an educator by heart.
+I am a Data Analyst by profession and an educator by heart. I have Excel, Python, Tableau, Power BI and MySQL expertise. I have worked on large datasets and generated actionable insights.
+![0_08dAfJ2wmnmqgsrl](https://github.com/HafshaWahab/HafshaWahab/assets/152807534/3ddccf6c-0684-402e-bc24-4566d999e263)
 
-![machine-learning-swipecart-blog-img-04-31-08-2022](https://github.com/HafshaWahab/HafshaWahab/assets/152807534/11a68bb6-a73f-426f-9b3b-75cbfc3c23c9)
+
 
 ### About me:
 - 👩‍💻 I’m working on various Data Analysis and Data Science projects.
 - 🧬 I’m a post-graduate in Biotechnology and a former research scholar.
-- 📊 I'm interested in data, insights and meaningful exchange of knowledge.
+- 📊 I'm interested in data, insights and meaningful knowledge exchange.
 - 🤝 I’m looking to collaborate on Data Analytics projects.
 - 📫 You can reach out to me linkedin.com/in/hafsha-wahab-767032159/
 
