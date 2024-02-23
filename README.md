@@ -16,7 +16,7 @@ I am a Data Analyst by profession and an educator by heart. I have Excel, Python
 
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hafsha-wahab-767032159/)
 
-- ⚡ Fun fact: Love reading books, Traveling
+- ⚡ Fun fact: Reading books, Traveling
 
 
 
