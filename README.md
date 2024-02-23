@@ -19,10 +19,7 @@ I am a Data Analyst by profession and an educator by heart. I have expertise in 
 - ⚡ Fun fact: Reading books, Traveling
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafshaWahab)](https://github.com/HafshaWahab/github-readme-stats)
 
 
-<!---
-HafshaWahab/HafshaWahab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
