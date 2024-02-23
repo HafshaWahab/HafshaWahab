@@ -1,5 +1,5 @@
 # 🙋‍♀️ Hi Folks, I’m Hafsha Wahab
-I am a Data Analyst by profession and an educator by heart. I have Excel, Python, Tableau, Power BI and MySQL expertise. I have worked on large datasets and generated actionable insights.
+I am a Data Analyst by profession and an educator by heart. I have expertise in  Excel, Python, Tableau, Power BI and MySQL. I have worked on large datasets and generated actionable insights.
 
 <img src="https://github.com/HafshaWahab/HafshaWahab/assets/152807534/3ce3e168-3cb6-40f7-839b-39ad16222068" width="1460" height="500">
 
