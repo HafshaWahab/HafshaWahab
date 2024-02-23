@@ -14,9 +14,9 @@ I am a Data Analyst by profession and an educator by heart. I have Excel, Python
 
 - 🤝 I’m looking to collaborate on Data Analytics projects.
 
-- 📫 [You can reach out to me](linkedin.com/in/hafsha-wahab-767032159/)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hafsha-wahab-767032159/)
 
-- ⚡ Fun fact: Love reading books.
+- ⚡ Fun fact: Love reading books, Traveling
 
 
 <!---
