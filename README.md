@@ -18,6 +18,7 @@ I am a Data Analyst by profession and an educator by heart. I have expertise in 
 
 - ⚡ Fun fact: Reading books, Traveling
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HafshaWahab)](https://github.com/HafshaWahab/github-readme-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafshaWahab)](https://github.com/HafshaWahab/github-readme-stats)
 
